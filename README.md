@@ -23,7 +23,7 @@ A responsive and user-friendly weather application that provides real-time weath
 
 ## ## 🌤️ App Screenshot
 
-![Weather App Screenshot](demo.ong)
+![Weather App Screenshot](image-of-app.png)
 
 ---
 
