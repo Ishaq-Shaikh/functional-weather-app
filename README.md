@@ -21,6 +21,12 @@ A responsive and user-friendly weather application that provides real-time weath
 
 ---
 
+## ## 🌤️ App Screenshot
+
+![Weather App Screenshot](demo.ong)
+
+---
+
 ## 🚀 Deployment
 
 This app is deployed on Vercel. You can access the live version here:
