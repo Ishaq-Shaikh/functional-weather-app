@@ -62,7 +62,7 @@ const Card = () => {
         <select
           value={city}
           onChange={(e) => setCity(e.target.value)}
-          className="select w-[140px] bg-[#98EDDF] text-[#0F1816] text-[20px] font-semibold"
+          className="select w-[140px] bg-[#98EDDF] text-[#0F1816] text-[20px] font-semibold rounded-2xl"
         >
           <option value="udgir">Udgir</option>
           <option value="mumbai">Mumbai</option>
