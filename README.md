@@ -1,12 +1,40 @@
-# React + Vite
+# 🌤️ Functional Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly weather application that provides real-time weather updates for any city worldwide. Built with React, Vite, and Tailwind CSS, this app fetches weather data from the OpenWeatherMap API and displays it in an intuitive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+-Real-Time Weather Data: Get current weather conditions, temperature, humidity, wind speed, and weather description.
+-City Search: Enter any city name to retrieve its weather information.
+-Responsive Design: Optimized for both desktop and mobile devices.
+-Error Handling: Displays user-friendly messages for invalid city names or API errors.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Technologies Used
+
+-Frontend: React js, Tailwind css
+-API: Axios and OpenWeatherMap API (requires API key)
+-Deployment: Vercel
+
+---
+
+## 🚀 Deployment
+
+This app is deployed on Vercel. You can access the live version here:
+
+## 🎥 Live link :  https://functional-weather-app.vercel.app/
+
+---
+
+## 🧪 Contributing
+
+Feel free to fork this repository and submit pull requests. Contributions are welcome!
+
+---
+
+## 🧑‍💻 Ownership & License
+
+All design, customization, and code of this project are my own. You may view and use this project for learning purposes only. All rights are reserved.
