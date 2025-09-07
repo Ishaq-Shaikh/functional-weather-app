@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap");
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inconsolata", monospace;
+  background-color: #1e1e1e;
+  color: #fff;
+  min-height: 100vh;
+  display: block;
+  margin-top: 10rem;
+  overflow: hidden;
+}
+
+.select {
+  padding: 8px;
+}
